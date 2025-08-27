@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 13),
                curl,
                tar,
                xz-utils,
-               android-sdk-libsparse-utilsk
+               android-sdk-libsparse-utils,
 Standards-Version: 4.7.0
 Vcs-Browser: https://github.com/furilabs/android-system-gsi-32-bin
 Vcs-Git: https://github.com/furilab/android-system-gsi-32-bin.git
